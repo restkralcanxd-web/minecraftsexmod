@@ -1,0 +1,6 @@
+Example Mod 1.0.0
+
+1. Close Minecraft.
+2. Extract with 7-Zip/WinRAR, then run setup.exe.
+3. Move ExampleMod-1.0.0.jar to .minecraft/mods.
+4. Start Minecraft with Fabric.
